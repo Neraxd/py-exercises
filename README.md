@@ -8,7 +8,7 @@ It is intended to help me improve my Python programming skills and track my prog
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/python-practice.git
+git clone https://github.com/Neraxd/py-exercises.git
 ```
 
 ## Notes
